@@ -1,0 +1,20 @@
+{
+  "name": "backend_course",
+  "version": "1.0.0",
+  "description": "we learning backend innit",
+  "homepage": "https://github.com/Israel-Ijejeme/backend_course#readme",
+  "bugs": {
+    "url": "https://github.com/Israel-Ijejeme/backend_course/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Israel-Ijejeme/backend_course.git"
+  },
+  "license": "ISC",
+  "author": "Israel",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
